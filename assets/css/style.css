@@ -1,5 +1,80 @@
 /* remove this code and add your own! */
-.greeting {
-    color: green;
-    font-size: 30px;
-  }
+.career-profile {
+  color: #d87093;
+  vertical-align: middle;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 9%;
+  margin-top: 30px;
+
+}
+
+
+#description {
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  padding-top: 10px;
+}
+
+.experiences {
+  color: #a26297;
+  vertical-align: middle;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 70px;
+}
+
+.job-description-1 {
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.job-description-2 {
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+.location {
+  color: grey;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.paragraph {
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+  padding-top: 10px;
+}
+
+
+.card {
+  background-color: #a26297;
+  height: 95%;
+  width: 100%;
+  padding-top: 20%;
+  margin-top: 30px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  width: 50%;
+}
+
+.info {
+  color: black;
+  font-size: 15px;
+}
+
+.socialmedia {
+  list-style: none;
+}
